@@ -1,4 +1,4 @@
-module connect
+module github.com/coxwave/dd-trace-go-contrib-connect
 
 go 1.21
 
